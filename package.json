@@ -1,0 +1,22 @@
+{
+  "name": "nodepad",
+  "version": "1.0.0",
+  "description": "nodepad test app",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-Korobeynikov/nodepad.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Peter-Korobeynikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peter-Korobeynikov/nodepad/issues"
+  },
+  "homepage": "https://github.com/Peter-Korobeynikov/nodepad#readme"
+}
